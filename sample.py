@@ -1,4 +1,6 @@
 def linearsearch(myitem, mylist):
   found = false
-  position = 0
+  if item not found and < len(mylist):
+	found = true
+	
   
